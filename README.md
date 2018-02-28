@@ -1,2 +1,2 @@
-# C-fun
+# CPP-fun
 fun and learning with c++
